@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "openai": { "api_key": "", "model": "gpt-4o-mini" },
+    "gemini": { "api_key": "", "model": "gemini-1.5-flash" },
+    "deepseek": { "api_key": "", "model": "deepseek-chat" },
+    "ollama": { "model": "llama3.1" }
+  },
+  "default_provider": "deepseek",
+  "personality": "jarvis",
+  "voice_enabled": false,
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8765
+  }
+}
