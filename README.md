@@ -34,7 +34,7 @@ V.E.I.D.A. es una **aplicación de escritorio** (no una página web) que funcion
 - (Opcional) [Ollama](https://ollama.ai) para IA local
 
 ```bash
-git clone https://github.com/TU_USUARIO/veida.git
+git clone https://github.com/gastoncarnabuci-ui
 cd veida
 
 python -m venv venv
