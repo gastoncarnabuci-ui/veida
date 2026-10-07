@@ -1,0 +1,12 @@
+# UI
+PySide6>=6.6.0
+PySide6-WebEngine>=6.6.0
+
+# Servidor
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+httpx>=0.26.0
+python-multipart>=0.0.6
+
+# Config
+python-dotenv>=1.0.0
