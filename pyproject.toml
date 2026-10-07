@@ -1,0 +1,15 @@
+[project]
+name = "veida"
+version = "0.1.0"
+description = "IA de escritorio tipo JARVIS con servidor propio, memoria y multi-proveedor"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
